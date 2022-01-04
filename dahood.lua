@@ -85,7 +85,7 @@ Main.Visible = false
 open.Visible = true	
 end)
 
-HoodShark.Name = "Hood Shark"
+HoodShark.Name = "Shark Hood"
 HoodShark.Parent = Main
 HoodShark.BackgroundColor3 = Color3.fromRGB(0, 0, 127)
 HoodShark.Position = UDim2.new(0.0207253881, 0, 0.132927433, 0)
@@ -95,7 +95,7 @@ HoodShark.Text = "HoodShark"
 HoodShark.TextColor3 = Color3.fromRGB(0, 0, 0)
 HoodShark.TextSize = 14.000
 HoodShark.MouseButton1Down:connect(function()
-loadstring(game:HttpGet('https://pastebin.com/raw/GZzx6z2R'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/kaimodiss/dahood/main/shark%20hood'))()
 end)
 
 Genasscript.Name = "Genas script"
